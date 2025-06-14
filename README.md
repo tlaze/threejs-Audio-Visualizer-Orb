@@ -19,10 +19,5 @@ An interactive, real-time audio visualizer built with [Three.js](https://threejs
 - Web Audio API – Audio analysis and frequency data extraction
 - GLSL – Custom vertex and fragment shaders
 
-## 📸 Screenshots
-
-> _Include preview images or GIFs of the visualizer in action here_
-
-## 📂 Project Structure (Simplified)
 
 
